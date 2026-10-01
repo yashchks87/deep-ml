@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:13:48.027Z",
+  "generated_at": "2026-10-01T18:13:50.686Z",
   "items": {
     "math:30": {
       "kind": "math",
@@ -11,6 +11,71 @@
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-09-03T19:14:01.248Z",
       "last_pushed_at": "2026-09-03T19:14:01.248Z"
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-10-01T05:37:02.952Z",
+      "last_pushed_at": "2026-10-01T05:37:02.952Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-10-01T05:39:34.468Z",
+      "last_pushed_at": "2026-10-01T05:39:34.468Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-10-01T05:42:19.984Z",
+      "last_pushed_at": "2026-10-01T05:42:19.984Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2026-10-01T06:13:33.723Z",
+      "last_pushed_at": "2026-10-01T06:13:33.723Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-10-01T16:58:49.194Z",
+      "last_pushed_at": "2026-10-01T16:58:49.194Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
